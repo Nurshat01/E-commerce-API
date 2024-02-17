@@ -17,8 +17,6 @@ This project is the backend for an e-commerce website, developed using the lates
 - **Express:** Web application framework for Node.js.
 - **MySQL:** Relational database for storing product, user, and order information.
 - **Sequelize:** ORM for Node.js, used for database management.
-- **JWT:** JSON Web Tokens for authentication and authorization.
-- **Stripe:** Payment gateway integration for processing payments.
 - **Other Libraries:** Additional libraries and packages as needed for specific features.
 
 ## Getting Started
