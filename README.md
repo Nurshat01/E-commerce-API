@@ -41,3 +41,15 @@ This project is the backend for an e-commerce website, developed using the lates
 - Use Insomnia Core to test the API routes:
   - GET routes for categories, products, or tags should display data in formatted JSON.
   - POST, PUT, and DELETE routes should allow you to create, update, and delete data in the database.
+
+  ## Demo link
+  - https://1drv.ms/v/s!At889SuyUenyiTrumOgS0Qn8BkAh?e=gHOIAE
+
+## Postman
+
+- curl --location --request GET 'http://localhost:3001/api/products'
+- curl --location --request GET 'http://localhost:3001/api/tags'
+- curl --location --request GET 'http://localhost:3001/api/categories'
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
